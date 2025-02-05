@@ -151,6 +151,9 @@
           h1 {
               margin-bottom: 1rem;
           }
+            .profile-info h1{
+            font-size:20px;
+          }
         }
           
 
