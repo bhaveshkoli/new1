@@ -8,7 +8,7 @@
     font-family: "Poppins", sans-serif;
 }  
 body{
-    background-color: whitesmoke;
+    background-color: #000;
 
 }
 
@@ -22,6 +22,7 @@ nav {
 padding: 5px 5%;
 display: flex;
 background-color: #000;
+    color:#fff;
 justify-content: space-between;
 align-items: center;
 box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
